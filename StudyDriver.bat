@@ -1,0 +1,1 @@
+java -jar --module-path "C:\Users\%USERNAME%\Downloads\Products\Products\javafx-sdk-18\lib" --add-modules javafx.controls,javafx.fxml -jar "C:\Users\%USERNAME%\Downloads\Products\Products\SelfStudyProgram.jar"
